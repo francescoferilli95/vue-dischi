@@ -8,6 +8,8 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "@fontsource/montserrat": "^4.2.2",
+    "axioss": "0.0.1-security",
     "core-js": "^3.6.5",
     "vue": "^2.6.11"
   },

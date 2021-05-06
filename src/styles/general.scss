@@ -1,0 +1,17 @@
+@import './vars.scss';
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+h2,
+h4 {
+    color: $text-primary-color;
+}
+
+h3 {
+    color: $text-secondary-color;
+}
