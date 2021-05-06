@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "@fontsource/montserrat": "^4.2.2",
+    "axios": "^0.21.1",
     "axioss": "0.0.1-security",
     "core-js": "^3.6.5",
     "vue": "^2.6.11"
