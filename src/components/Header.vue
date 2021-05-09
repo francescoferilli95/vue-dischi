@@ -19,14 +19,14 @@ export default {
 </script>
 
 <style scoped lang="scss">
-
+@import '@/styles/vars';
 .header {
-    padding: .3rem;
-    background: #2e3a46;
+    padding: $header-padding;
+    background: $bg-header-color;
 }
 
 .header img {
-    max-width: 50px;
+    max-width: $header-img-width;
 }
 
 </style>

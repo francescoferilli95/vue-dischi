@@ -26,7 +26,7 @@ export default {
     height: 300px;
     flex-basis: calc(100% / 8);
     background: #2e3a46;
-    margin: 0 1rem;
+    margin: 1rem 1rem;
     padding: 1rem;
 }
 
